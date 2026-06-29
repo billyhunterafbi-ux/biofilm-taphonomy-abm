@@ -136,7 +136,9 @@ bp <- make_hallucigenia(N = 100)
 
 C        <- bp$C
 k_tissue <- bp$k_tissue
+```
 
+---
 ---
 
 ## License
