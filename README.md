@@ -139,7 +139,6 @@ k_tissue <- bp$k_tissue
 ```
 
 ---
----
 
 ## License
 
