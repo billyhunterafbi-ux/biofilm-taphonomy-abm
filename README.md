@@ -1,4 +1,4 @@
-# BAgent-Based Model of Biofilm-Mediated Exceptional Fossil Preservation
+# Agent-Based Model of Biofilm-Mediated Exceptional Fossil Preservation
 
 ## Overview
 This repository contains a spatially explicit reaction–diffusion model simulating microbial and geochemical controls on Burgess Shale–style soft-tissue preservation.
