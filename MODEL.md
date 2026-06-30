@@ -272,7 +272,7 @@ PNAS 109(14): 5180–5184
 ## 11. Contact
 
 Billy Hunter  
-AFBI Marine and Freshwater Science Division  
+AFBI Environment and Marine Science Division  
 
 Code and further details available on request.
 
